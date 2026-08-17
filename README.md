@@ -19,9 +19,12 @@ Este plugin está bajo riesgo de cambio no se dará soporte es publico para su l
 - Combatlog simple 30s (default).
   <img width="800" height="450" alt="1000007208" src="https://github.com/user-attachments/assets/db339032-9f9c-4e12-bcd4-eebd4d852f49" />
 
-
-
 - Limite de uso para Elytra de 5s (default) con sistema propio de refresco.
+![1000007213](https://github.com/user-attachments/assets/11882b98-de4f-4f84-b27d-0e54f4f7a24b)
+
+
+
+
 - Tiempo de uso para Mazo.
 - Sistema de Actionbar inteligente para varios cooldown.
   
