@@ -10,8 +10,7 @@
 </div>
 
 **Versions**:
-1.21.11, 26.1, 26.1.1, 26.1.2, 26.2
-(Estás versiones fueron testeadas el plugin puede que funcione en otras similares)
+<sub>1.21.11, 26.1, 26.1.1, 26.1.2, 26.2</sub>
 
 
 
