@@ -13,13 +13,13 @@
 1.21.11x
 
 
-Este plugin está bajo riesgo de cambios y no está abierto a soporte público
+Este plugin está bajo riesgo de cambio no se dará soporte es publico para su libre uso.
 # Características
-- Combatlog simple 30s (default)
-- Limite de uso para Elytra de 5s (default) con sistema propio de refresco
-- Tiempo de uso para Mazo
-- Sistema de Actionbar inteligente para varios cooldown
-
+- Combatlog simple 30s (default).
+- Limite de uso para Elytra de 5s (default) con sistema propio de refresco.
+- Tiempo de uso para Mazo.
+- Sistema de Actionbar inteligente para varios cooldown.
+  
 
 # License & Credits
 **ElytraRebalance** es desarrollado y mantenido con esmero por **alexcomc** como regalo para **sthefanxd**.
