@@ -1,0 +1,13 @@
+# ============================================
+#  ElytraRebalance - messages.yml
+# ============================================
+# Usa & para códigos de color (&c, &a, &e, etc.)
+
+general:
+  reload-success: "&aConfiguración recargada correctamente."
+  no-permission: "&cNo tienes permiso para usar este comando."
+
+# --- Módulo: combat-log ---
+combat-log:
+  # Placeholders disponibles: {player}
+  death-broadcast: "&c{player} murió por desconectarse en combate."

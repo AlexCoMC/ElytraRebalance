@@ -1,0 +1,22 @@
+name: ElytraRebalance
+version: '4.5.2'
+main: com.alexcomc.elytrarebalance.ElytraRebalance
+api-version: '1.21'
+author: AlexCoMC
+description: Sistema de balanceo personal en pvp
+
+commands:
+  erb:
+    description: Comando principal de ElytraRebalance.
+    usage: /erb reload
+
+permissions:
+  elytrarebalance.reload:
+    description: Permite usar /erb reload.
+    default: op
+  elytrarebalance.combatlog.bypass:
+    description: Evita que el jugador sea marcado en combate (módulo combat-log) o muera al desconectarse.
+    default: false
+  elytrarebalance.elytralimit.bypass:
+    description: Evita que el jugador sea restringido por el módulo elytra-limit (vuelo con elytra sin límite).
+    default: false

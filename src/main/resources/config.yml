@@ -1,0 +1,59 @@
+# Alex estuvo aqui a las 2:20 AM
+
+# Formato de tiempo (s, m, h, d,)
+# true - Activado
+# false Desactivado
+
+# No explico esta zona porque es dificil de entender cualquier cosa dime
+actionbar:
+  prefix: "&8| "
+  separator: " &8| "
+  suffix: " &8|"
+  update-interval-ticks: 2
+  # Intervalo de actualizacion de cooldown
+
+combat-log:
+  enabled: true
+  # Desactivar combatlog
+  cooldown: 30s
+  # Tiempo de combatlog
+  actionbar: "%combat%"
+  # Placeholder de combatlog
+  broadcast-death: true
+  # Anunciar en chat muerte de jugador por desconexion
+
+elytra-limit:
+  enabled: true
+  # Desactivar tiempo de elytra
+  tag-time: 3m
+  # Tiempo de marcador de elytra
+  grace-time: 2m
+  # Tiempo para regeneracion pasiva
+  regen-interval: 45s
+  # Intervalo de regeneracion pasiva
+  regen-amount: 1s
+  # Cantidad de tiempo añadido en regeneracion pasiva
+  flight-time: 5s
+  # Tiempo maximo de vuelo
+  min-time-to-fly: 0.1s
+  # Tiempo minimo de vuelo
+  special-attack-reset-time: 5s
+  # Tiempo añadido en ataque especial (mazo o spear). Cualquier golpe con
+  # spear (cualquier tier, jab o charge) siempre cuenta como especial.
+  special-attack-fall-threshold: 1.5
+  # Respaldo para detectar el smash del mazo: si el juego no reporta el
+  # damage-type "mace_smash" en esta build, contamos como smash cuando el
+  # jugador tenía el mazo en mano y venía cayendo al menos esta cantidad de
+  # bloques (1.5 es el umbral vanilla real del smash).
+  debug-special-attack: false
+  # Actívalo (true) para que el plugin imprima en la consola, en cada golpe,
+  # el damage-type detectado, el arma en mano, la distancia de caída y si se
+  # consideró especial. Útil para diagnosticar por qué no detecta un smash o
+  # un golpe de spear. Después de diagnosticar, volvé a ponerlo en false.
+  actionbar: "%tiempo%"
+  # Placeholder de elytra
+
+  # Entidades excluidas de ataque especial
+  special-attack-excluded: 
+    - "armor_stand"
+    - "boat"
