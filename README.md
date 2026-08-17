@@ -14,12 +14,7 @@
 
 
 
-<div align="center">
+# License & Credits
+**ElytraRebalance** is developed and maintained with care by **alexcomc**.
 
-# ElytraRebalance
-
-![ElytraRebalance](./assets/elytrarebalance.png)
-
-**Un plugin completo y hecho a medida...**
-
-</div>
+This plugin is open-source software, licensed under the CC BY-NC-SA 4.0 License.
