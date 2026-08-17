@@ -40,6 +40,9 @@ Este plugin está bajo riesgo de cambio no se dará soporte es publico para su l
 <img width="800" height="1066" alt="1000007390" src="https://github.com/user-attachments/assets/e3cf031e-5761-4a15-aa95-be7d0cb4ec38" />
 
 
+# Ataque con spear reinicia el contador de elytra
+<img width="800" height="1066" alt="1000007761" src="https://github.com/user-attachments/assets/35454d8c-e6ba-416c-a7f7-189d39888f2b" />
+
 
   
 
