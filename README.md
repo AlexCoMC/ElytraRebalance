@@ -36,6 +36,11 @@ Este plugin está bajo riesgo de cambio no se dará soporte es publico para su l
  <img width="800" height="1066" alt="1000007214" src="https://github.com/user-attachments/assets/089ae2ce-c24b-46f6-a0dd-3ff6107f26ab" />
 
 
+# Ataque smash de mazo reinicia elytra el cooldown de elytra (soporta attribute swap)
+<img width="800" height="1066" alt="1000007390" src="https://github.com/user-attachments/assets/e3cf031e-5761-4a15-aa95-be7d0cb4ec38" />
+
+
+
   
 
 # License & Credits
