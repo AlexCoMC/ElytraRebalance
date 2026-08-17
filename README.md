@@ -25,3 +25,4 @@ Este plugin está bajo riesgo de cambio no se dará soporte es publico para su l
 **ElytraRebalance** es desarrollado y mantenido con esmero por **alexcomc** como regalo para **sthefanxd**.
 
 This plugin is open-source software, licensed under the CC BY-NC-SA 4.0 License.
+<img width="800" height="450" alt="1000007208" src="https://github.com/user-attachments/assets/db339032-9f9c-4e12-bcd4-eebd4d852f49" />
