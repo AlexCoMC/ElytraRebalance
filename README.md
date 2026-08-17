@@ -15,6 +15,6 @@
 
 
 # License & Credits
-**ElytraRebalance** is developed and maintained with care by **alexcomc**.
+**ElytraRebalance** es desarrollado y mantenido con esmero por **alexcomc** como regalo para **sthefanxd**.
 
 This plugin is open-source software, licensed under the CC BY-NC-SA 4.0 License.
