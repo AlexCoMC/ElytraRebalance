@@ -22,11 +22,13 @@ Este plugin está bajo riesgo de cambio no se dará soporte es publico para su l
 - Limite de uso para Elytra de 5s (default) con sistema propio de refresco.
 ![1000007213](https://github.com/user-attachments/assets/11882b98-de4f-4f84-b27d-0e54f4f7a24b)
 
-
-
-
-- Tiempo de uso para Mazo.
 - Sistema de Actionbar inteligente para varios cooldown.
+<img width="800" height="600" alt="1000007215" src="https://github.com/user-attachments/assets/4538b3f3-396e-4111-8971-efe23b174f49" />
+
+- Cooldown de elytra visible solo con una en inventario
+<img width="800" height="1066" alt="1000007214" src="https://github.com/user-attachments/assets/089ae2ce-c24b-46f6-a0dd-3ff6107f26ab" />
+
+
   
 
 # License & Credits
